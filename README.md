@@ -1,3 +1,9 @@
 # steganalysis
 
-Please refer to the documentation for more details: [Steganalysis docs](https://spookysec.github.io/steganalysis/)
+Requirements:
+sudo pip install PyMuPDF
+sudo apt-get install foremost
+sudo apt-get install ruby-full
+sudo gem install zsteg
+sudo apt-get install imagemagick
+sudo apt install steghide
